@@ -234,7 +234,7 @@ body.opened #main { visibility: visible; }
 
 .hero-content { position: relative; z-index: 2; color: var(--ivory); max-width: 900px; will-change: transform; }
 
-.line-mask { display: block; overflow: hidden; }
+.line-mask { display: block;}
 .line-mask > span {
   display: block;
   transform: translateY(115%);
